@@ -20,6 +20,7 @@ import {DISHES} from './shared/dishes';
       </div></Navbar>
       <Menu dishes={this.state.dishes}/>
     </div>
+      
   );
 }
 }
